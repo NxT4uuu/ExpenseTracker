@@ -4,9 +4,12 @@ A simple command-line Java application for tracking and storing personal expense
 
 ## 📁 Project Structure
 
-├── Expenses.java # Model class representing a single expense
-├── ExpenseStorage.java # Handles saving and loading expenses from a file
-├── ExpenseTracker.java # Main application with user interface logic
+> Expenses.java
+  # Model class representing a single expense
+> ExpenseStorage.java
+  # Handles saving and loading expenses from a file
+> ExpenseTracker.java
+  # Main application with user interface logic
 
 ## 🛠 Features
 
