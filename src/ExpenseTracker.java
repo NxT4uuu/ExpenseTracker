@@ -1,4 +1,4 @@
-package expense;
+package expense.src;
 
 import java.util.ArrayList;
 import java.util.Scanner;

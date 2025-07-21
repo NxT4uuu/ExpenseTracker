@@ -1,4 +1,4 @@
-package expense;
+package expense.src;
 
 public class Expenses {
     private String date;
